@@ -1,7 +1,8 @@
-# je laisse les fichiers Assets, les .meta, les .json 
+# je laisse les fichiers les .meta et leur objets (fichier Assets), les .json (Package)
 # ainsi que les .asset des projectSettings
 
 [Ll]ibrary/
+.vs/
 [Ll]ogs/
 [Oo]bj/
 *.csproj
