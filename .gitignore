@@ -1,7 +1,8 @@
-# je laisse les fichiers Assets
-
+# je laisse les fichiers Assets, les .meta, les .json 
+# ainsi que les .asset des projectSettings
 
 [Ll]ibrary/
 [Ll]ogs/
 [Oo]bj/
 *.csproj
+*.sln
