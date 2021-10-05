@@ -1,6 +1,10 @@
-# je laisse les fichiers les .meta et leur objets (fichier Assets), les .json (Package)
-# ainsi que les .asset des projectSettings
+# je pourrai commit les fichiers suivants :
+# les fichiers les .meta et leur objets (fichier Assets)
+# les .json (Package)
+# les .asset des projectSettings 
+# ainsi que les UserSettings
 
+# seront ignorés les fichiers suivants :
 [Ll]ibrary/
 .vs/
 [Ll]ogs/
