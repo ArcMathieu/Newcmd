@@ -1,3 +1,7 @@
+# je laisse les fichiers Assets
+
+
 [Ll]ibrary/
 [Ll]ogs/
 [Oo]bj/
+*.csproj
