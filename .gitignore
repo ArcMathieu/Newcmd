@@ -9,5 +9,15 @@
 .vs/
 [Ll]ogs/
 [Oo]bj/
+[Tt]emp/
+
 *.csproj
 *.sln
+
+
+#[Uu]serSettings/
+
+
+#*.mp4
+#Exeption sur un élément
+#!maVideo.mp4
